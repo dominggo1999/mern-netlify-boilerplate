@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "import/extensions": [
+      "error",
+      {
+        "js": "always",
+        "ts": "always",
+        "jsx": "always",
+        "tsx": "always",
+        "json": "always"
+      }
+    ]
+  }
+}
